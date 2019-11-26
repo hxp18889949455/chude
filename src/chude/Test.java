@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("holle java !");
 		System.out.println("update !");
 		System.out.println("save !");
+		System.out.println("delet !");
 	}
 
 }
